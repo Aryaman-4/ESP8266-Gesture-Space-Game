@@ -15,6 +15,14 @@ The game uses hand distance as input — no buttons, no joystick.
 
 ---
 
+
+![WhatsApp Image 2026-02-08 at 1 21 47 PM](https://github.com/user-attachments/assets/232ff8d6-7d2b-4161-a557-474a6245cff8)
+
+
+
+
+
+
 ## ✨ Features
 
 - Gesture-based control using ultrasonic sensor
