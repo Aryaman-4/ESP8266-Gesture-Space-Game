@@ -49,5 +49,38 @@ The game uses hand distance as input — no buttons, no joystick.
 ---
 
 
+Circuit Diagram
+
+<img width="1280" height="720" alt="Untitled design" src="https://github.com/user-attachments/assets/eb4de616-bdf4-44db-800a-6cf74de0e84a" />
+
+# 🔌 Pin Connections
+
+## Ultrasonic Sensor (HC-SR04)
+
+| Sensor Pin | ESP8266 Pin |
+|-----------|------------|
+| VCC | 5V |
+| GND | GND |
+| TRIG | D5 |
+| ECHO | D6 |
+
+---
+
+## OLED Display (SSD1306 – I2C)
+
+| OLED Pin | ESP8266 Pin |
+|--------|-------------|
+| VCC | 3.3V |
+| GND | GND |
+| SDA | D2 |
+| SCL | D1 |
+
+---
+
+⚠️ Note: Use voltage-safe connections for the ECHO pin if required.
+
+
+
+
 
 
